@@ -1,7 +1,5 @@
 # MovieRentalsDB
 
-Programing languages - T-SQL , Python
-
 • Designing ERD and creation of a database . 
 
 • Insert data into the database . 
