@@ -1,5 +1,4 @@
 # MovieRentalsDB
-MovieRentalsDB Database + Python GUI
 
 Programing languages - T-SQL , Python
 
