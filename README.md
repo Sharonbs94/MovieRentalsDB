@@ -5,6 +5,7 @@ Creation and Programing of Database , Creation of graphical user interface with 
 programing languages used - Transact-SQL , Python . 
 
 Project Stages - 
+
 • Designing ERD and creation of a database . 
 
 • Insert data into the database . 
