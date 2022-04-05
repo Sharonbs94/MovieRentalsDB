@@ -4,6 +4,9 @@ Creation and Programing of Database , Creation of graphical user interface with 
 
 programing languages used - Transact-SQL , Python . 
 
+Development environment used - Microsoft SQL Server Management Studio 18 , Visual Studio Code . 
+
+
 Project Stages - 
 
 • Designing ERD and creation of a database . 
