@@ -1,6 +1,6 @@
 # MovieRentalsDB
 
-Creation and Programing of Database , Creation of graphical user interface with Python that's connected to the database Stored Procedures .
+Creation and Programing a Database , Creation of graphical user interface with Python that's connected to the database Stored Procedures .
 
 programing languages used - Transact-SQL , Python . 
 
