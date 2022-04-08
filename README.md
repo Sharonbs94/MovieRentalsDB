@@ -9,10 +9,12 @@ Development environment used - Microsoft SQL Server Management Studio 18 , Visua
 
 Project Stages - 
 
-• Designing ERD and creation of a database . 
+• ERD - Normalization and database design .
 
-• Insert data into the database . 
+• Creating the database on SSMS . 
+
+• Collection and data insert into the database tables.
 
 • Creation of Stored Procedures and Views for the database . 
 
-• Creation of GUI in Python that's connected to the database Stored Procedures 
+• Creation of GUI in Python that's connected to the database Stored Procedures .
